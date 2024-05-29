@@ -1,0 +1,13 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files you want to always be normalized and converted
+*.js text
+*.ts text
+*.md text
+*.json text
+*.yml text
+*.editorconfig text
+*.eslintrc text
+*.gitattributes text
+*.nycrc text

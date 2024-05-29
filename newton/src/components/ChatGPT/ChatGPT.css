@@ -1,0 +1,84 @@
+/* ChatGPT.css */
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+
+.title {
+  padding: 20px ;
+  font-size: 40px;
+  color: #006400; /* Dark green */
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 18px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  color: white;
+}
+
+.btn-accept {
+  background-color: #006400; /* Dark green */
+}
+
+.send-btn {
+  margin: 0;
+}
+
+.bg-darkGreen {
+  background-color: #006400; /* Dark green */
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px; /* Added margin from the top */
+}
+
+.text-light {
+  color: #0c0c0c; /* Light color */
+}
+.navbar-element{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+   color: #69707A;
+  
+}
+.sidebar-element{
+  justify-content: space-around;
+  font-size: 30px;
+  font-weight: 100;
+  margin-top: 5px;
+  
+
+}
+.newtonn-img{
+  height: 31px;
+  width: 32px;
+
+}
+.dashoard{
+  color: blue;
+  height: 30px;
+  width: 100%;
+}

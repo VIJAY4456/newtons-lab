@@ -1,0 +1,80 @@
+.newton-imge {
+    padding-top: 40px; /* Adjust top padding as needed */
+    padding-left: 30px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 243px;
+    height: 62.4px;
+  }
+  
+  .newton-imgee {
+    padding-top: 50px; /* Adjust top padding as needed */
+    padding-left: 10px; /* Adjust left padding as needed */
+    height: 62.5px;
+    width: 64px;
+  }
+  
+  .create-txt {
+    padding-top: 40px; /* Adjust top padding as needed */
+    padding-left: 50px; 
+    margin-left: 40px; /* Adjust margin as needed */
+    height: 24px;
+    width: 211px;
+    color: #69707A;
+    font-size: 16px;
+    font: 1em sans-serif;
+  
+  }
+  .signup-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Adjust the gap between elements as needed */
+  }
+  
+  .signup-container > * {
+    margin: 10px; 
+    /* height: 370px;
+    width: 243px; */
+    /* Adjust the margin around elements as needed */
+  }
+  
+  .signup-container > input,
+  .signup-container > button {
+    padding: 10px; /* Adjust the padding inside input fields and button as needed */
+    width: 100%; /* Make input fields and button take full width */
+  }
+  .sign-up-part{
+    width: 30%; 
+  float: left;
+  }
+ .elements-txt{
+    height: 44px;
+    width: 163px;
+    font-size: 14px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+    
+ }
+ .creat-button {
+    /* Adjust padding to decrease button size */
+    font-size: 14px;
+     /* Adjust font size to decrease button size */ /* Adjust padding to decrease size */
+    color: #FAFAFA;
+    
+    background-color: #0061F2;
+  }
+  .creat-button:hover{
+    background-color: #f0f0f0;
+  }
+  .right-img{
+    height: 720px;
+    width: 1000px;
+  }
+  .sign-txt{
+    height: 62px;
+    width: 162px;
+  }
+  
+  

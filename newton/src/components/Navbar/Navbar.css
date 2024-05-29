@@ -1,0 +1,119 @@
+.navbar-region{
+  height: 64px;
+  
+}
+  .wp-block-paragraph {
+    text-align: center;
+  }
+  p {
+    display: block;
+    align-items: center;
+    background-color: #E0E7FF;
+   
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.FirstNavbar {
+  height: 20px; /* Set the height */
+  width: 100%; /* Set the width */
+  padding: 5px; /* Set padding */
+  background-color: #0799EC; /* Background color */
+  
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+}
+/* .newton-part{
+  
+}
+.navbar-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+/* .midllepart{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+} */
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.newton-part,
+
+.sign-part {
+  display: flex;
+  align-items: center;
+}
+
+.middllepart {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.midllepart {
+  display: flex;
+  align-items: center;
+}
+
+.midllepart ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.midllepart li {
+  margin-right: 10px; /* Adjust margin as needed */
+}
+
+.navbar-container{
+  height: 64px;
+  width: 1200px;
+}
+.navbar-container > div {
+  margin: 0 10px; /* Adjust margin as needed */
+}
+.newton-part{
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+.newton-img{
+  height: 24px;
+  width: 22px;
+ 
+
+}
+.singn-part-1{
+  flex-wrap: wrap;
+  align-items: center;
+  display: flex;
+  background-color: transparent;
+}
+.singn-part-2{
+  height: 20px;
+  width: 39.5px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.navigation-2{
+
+  width: 620;
+  height: 23px;
+}
+.newton-name{
+  height: 25px;
+  width: 497px;
+}
+
+
+ 

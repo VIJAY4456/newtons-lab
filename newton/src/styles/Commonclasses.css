@@ -1,0 +1,22 @@
+.wp-block-navigation .wp-block-navigation-item{
+    align-items: center;
+    background-color: inherit;
+    display: flex;
+    position: relative;
+    background-color: brown;
+}
+.wp-block-navigation-item__label {
+    white-space: nowrap !important;
+    white-space-collapse: collapse !important;
+    text-wrap: nowrap !important;
+    display: block;
+    background-color: blue;
+}
+.wp-block-navigation-item__content {
+    display: flex;
+    padding: 0;
+}
+.wp-block-navigation.items-justified-center {
+    --navigation-layout-justification-setting: center;
+    --navigation-layout-justify: center;
+}
